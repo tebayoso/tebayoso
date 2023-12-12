@@ -1,14 +1,14 @@
-<h2>Hi 🙏🏻, I'm Jorge de los Santos!</h2>
+<h2>Hi, I'm Jorge de los Santos!</h2>
 <p>
 <em>Founder at <a href="https://pox.me">Proof of X</a></em>
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tebayoso?label=Follow)](https://twitter.com/intent/follow?screen_name=tebayoso)
-[![Linkedin: Tebayoso](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tebayoso/)](https://www.linkedin.com/in/tebayoso/)
+[![Linkedin: Tebayoso](https://img.shields.io/badge/-tebayoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tebayoso/)](https://www.linkedin.com/in/tebayoso/)
 ![GitHub followers](https://img.shields.io/github/followers/tebayoso?label=Follow&style=social)
+![Waka Readme](https://github.com/tebayoso/tebayoso/workflows/Waka%20Readme/badge.svg)
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)-->
-![Waka Readme](https://github.com/tebayoso/tebayoso/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
