@@ -1,13 +1,20 @@
 <h2>Hi, I'm Jorge de los Santos!</h2>
-<h3>Founder at <a href="https://pox.me">Proof of X</a></h3>
+<h3>Software Architect | Platform Engineer | Blockchain Developer</h3>
+
+Hello 👋, I'm Jorge de los Santos!
+
+As a seasoned software engineer and blockchain enthusiast, I've spent years navigating the complexities of Web3 and blockchain technologies. My journey includes pivotal roles at Euler Tools, Certchain, Michelin, and Uttopion, where I've honed my skills in full-stack development, DevOps, and leading innovative tech projects.
+
+My passion lies in bridging the gap between cutting-edge blockchain solutions and practical, real-world applications. I'm all about building technology that matters - technology that reshapes how we interact with the digital world. In my repositories, you'll find a mix of projects showcasing my journey in Web3, from decentralized applications (DApps) to data-driven blockchain platforms.
+
+I love collaborating and am always open to connecting with like-minded enthusiasts and professionals. Feel free to reach out for collaborations or just a chat about the latest in blockchain tech!
+
+Happy coding!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tebayoso?label=Follow)](https://twitter.com/intent/follow?screen_name=tebayoso)
 [![Linkedin: Tebayoso](https://img.shields.io/badge/-tebayoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tebayoso/)](https://www.linkedin.com/in/tebayoso/)
 ![GitHub followers](https://img.shields.io/github/followers/tebayoso?label=Follow&style=social)
-![Waka Readme](https://github.com/tebayoso/tebayoso/workflows/Waka%20Readme/badge.svg)
-<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)-->
-
+[![Schedule an Appointment](https://img.shields.io/badge/-Schedule%20an%20Appointment-blue?style=for-the-badge&logo=calendar)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yTLITzvwnkrprJtAhdCqih8hGBMLDlczBLqS5WPUJtdDvUqA5wE4O8xr_riU3kpJ5jOkHOvzq?gv=true)
 
 Proud collaborator at Stack Overflow before GPT Screwed it:
 
@@ -16,8 +23,6 @@ Proud collaborator at Stack Overflow before GPT Screwed it:
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-[![Schedule an Appointment](https://img.shields.io/badge/-Schedule%20an%20Appointment-blue?style=for-the-badge&logo=calendar)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yTLITzvwnkrprJtAhdCqih8hGBMLDlczBLqS5WPUJtdDvUqA5wE4O8xr_riU3kpJ5jOkHOvzq?gv=true)
 
 ---
 <!--START_SECTION:waka-->
@@ -31,69 +36,37 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  >
 > 10/2013 Landed my first job 💼
  >
-> 🚫 Not Opted to Hire
+> 04/2015 Semi Senior Developer at Globant 🥉
  >
-> 📜 21 Public Repositories
+> 09/2018 Engineering Manager at Michelin North America 🥈
  >
-> 🔑 23 Private Repositories
+> 10/2020 Startup Founder at Euler Tools 🥇
  >
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-🌆 Daytime                1795 commits        █████████░░░░░░░░░░░░░░░░   37.85 %
-🌃 Evening                1513 commits        ████████░░░░░░░░░░░░░░░░░   31.90 %
-🌙 Night                  841 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 %
-```
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Tuesday                  585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Wednesday                805 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
-Thursday                 591 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Friday                   533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Saturday                 672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Sunday                   1000 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 %
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Buenos Aires/Argentina
 
 💬 Programming Languages:
-Ruby                     6 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.61 %
-TypeScript               5 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.02 %
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+- Ruby
+- TypeScript
+- Solidity
+- Bash
+- SQL
+
+📦 Frameworks:
+- Ruby on Rails
+- FeathersJS (Koa | Express)
+- NextJS
+
+🕸️ Frontend Frameworks
+- React
+- Angular
+
+🛠️ Infrastructure
+- AWS
+- Digital Ocean
 
 🔥 Editors:
-WebStorm                 7 hrs 7 mins        █████████████░░░░░░░░░░░░   50.56 %
-PyCharm                  6 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.44 %
+- WebStorm
+- RubyMine
+- VisualStudio Code
 
 💻 Operating System:
-Mac                      14 hrs 4 mins       █████████████████████████   100.00 %
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               36 repos            ████████████░░░░░░░░░░░░░   48.65 %
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-```
-
-
-
-
- Last Updated on 12/12/2023 00:24:36 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+- Mac
