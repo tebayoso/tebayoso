@@ -1,7 +1,5 @@
 <h2>Hi, I'm Jorge de los Santos!</h2>
-<p>
-<em>Founder at <a href="https://pox.me">Proof of X</a></em>
-</p>
+<h3>Founder at <a href="https://pox.me">Proof of X</a></h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tebayoso?label=Follow)](https://twitter.com/intent/follow?screen_name=tebayoso)
 [![Linkedin: Tebayoso](https://img.shields.io/badge/-tebayoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tebayoso/)](https://www.linkedin.com/in/tebayoso/)
@@ -9,6 +7,11 @@
 ![Waka Readme](https://github.com/tebayoso/tebayoso/workflows/Waka%20Readme/badge.svg)
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)-->
+
+
+Proud collaborator at Stack Overflow before GPT Screwed it:
+
+<a href="https://stackexchange.com/users/3008237"><img src="https://stackexchange.com/users/flair/3008237.png" width="208" height="58" alt="profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### 📫 Like to meet me?
 
@@ -18,17 +21,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C471%20hrs%2019%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-922-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20years%20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My Developer Timeline**
 
-> 📦 182.9 kB Used in GitHub's Storage
+> 10/2012 Moved from 🏗️ Construction to 💻 Software Development
  >
-> 🏆 106 Contributions in the Year 2023
+> 10/2013 Landed my first job 💼
  >
 > 🚫 Not Opted to Hire
  >
