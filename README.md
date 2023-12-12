@@ -1,5 +1,4 @@
 <h2>Hi 🙏🏻, I'm Jorge de los Santos!</h2>
-<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/6rUmgSo6qEE8NIFU8F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/flag-argentina-argentine-6rUmgSo6qEE8NIFU8F">via GIPHY</a></p>
 <p>
 <em>Founder at <a href="https://pox.me">Proof of X</a></em>
 </p>
@@ -15,58 +14,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yTLITzvwnkrprJtAhdCqih8hGBMLDlczBLqS5WPUJtdDvUqA5wE4O8xr_riU3kpJ5jOkHOvzq?gv=true',
-      color: '#039BE5',
-      label: 'Reservar una cita',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
-
-<!--
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
--->
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+[![Schedule an Appointment](https://img.shields.io/badge/-Schedule%20an%20Appointment-blue?style=for-the-badge&logo=calendar)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yTLITzvwnkrprJtAhdCqih8hGBMLDlczBLqS5WPUJtdDvUqA5wE4O8xr_riU3kpJ5jOkHOvzq?gv=true)
 
 ---
 <!--START_SECTION:waka-->
