@@ -14,15 +14,17 @@ Happy coding!
 [![Twitter Follow](https://img.shields.io/twitter/follow/tebayoso?label=Follow)](https://twitter.com/intent/follow?screen_name=tebayoso)
 [![Linkedin: Tebayoso](https://img.shields.io/badge/-tebayoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tebayoso/)](https://www.linkedin.com/in/tebayoso/)
 ![GitHub followers](https://img.shields.io/github/followers/tebayoso?label=Follow&style=social)
-[![Schedule an Appointment](https://img.shields.io/badge/-Schedule%20an%20Appointment-blue?style=for-the-badge&logo=calendar)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yTLITzvwnkrprJtAhdCqih8hGBMLDlczBLqS5WPUJtdDvUqA5wE4O8xr_riU3kpJ5jOkHOvzq?gv=true)
 
 Proud collaborator at Stack Overflow before GPT Screwed it:
 
-<a href="https://stackexchange.com/users/3008237"><img src="https://stackexchange.com/users/flair/3008237.png" width="208" height="58" alt="profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/3008237"><img src="https://stackexchange.com/users/flair/3008237.png" width="208" height="58" alt="profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="Profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+
+[![Schedule an Appointment](https://img.shields.io/badge/-Schedule%20an%20Appointment-blue?style=for-the-badge&logo=calendar)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2yTLITzvwnkrprJtAhdCqih8hGBMLDlczBLqS5WPUJtdDvUqA5wE4O8xr_riU3kpJ5jOkHOvzq?gv=true)
 
 ---
 <!--START_SECTION:waka-->
