@@ -19,7 +19,7 @@ Proud collaborator at Stack Overflow before GPT Screwed it:
 
 <a href="https://stackexchange.com/users/3008237"><img src="https://stackexchange.com/users/flair/3008237.png" width="208" height="58" alt="profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="Profile for Jorge de los Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-<a href="https://gitroll.io/profile/usXftipaFcIQktcXGKahLQKiAhhz2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/usXftipaFcIQktcXGKahLQKiAhhz2" alt="GitRoll Profile Badge" height="250px"/></a>
+<a href="https://gitroll.io/profile/usXftipaFcIQktcXGKahLQKiAhhz2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/usXftipaFcIQktcXGKahLQKiAhhz2?theme=solarizedLight" alt="GitRoll Profile Badge"/></a>
 
 ### 📫 Like to meet me?
 
