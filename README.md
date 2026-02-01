@@ -20,21 +20,28 @@
 | **Scale** | 800 → 12,000 RPM (15x) |
 | **Code Written** | 4.8M+ lines |
 
-## 💼 Projects
+## 💼 Experience & Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Motosierra Studio** | Discord Game Builder with AI assistance | `Discord.js` `TypeScript` `OpenAI` `Love2D` |
-| **Decisiv Vision** | Fleet management platform transformation | `Rails` `MySQL` `PubNub` `Backbone.js` |
-| **Euler Tools** | Web3 startup - DeFi & NFT platforms | `Solidity` `Web3.js` `React` `Node.js` |
-| **AWS Login Helper** | Multi-profile AWS CLI tool | `Node.js` `AWS SDK` `1Password` |
-| **Tribune CMS** | Media publishing system (Millions of users) | `Rails` `PostgreSQL` `Redis` |
+| Company/Project | Role | Description | Tech Stack |
+|-----------------|------|-------------|------------|
+| **Motosierra Studio** | Founder | Discord Game Builder with AI | `Discord.js` `TypeScript` `OpenAI` `Love2D` |
+| **MetaLab** | Software Architect | Product design agency, microservices architecture | `AWS` `Kafka` `Node.js` `Microservices` |
+| **Ipsy** | Senior Engineer | Beauty subscription e-commerce platform | `Rails` `React` `PostgreSQL` `AWS` |
+| **Euler Tools** | Founder | Web3 startup - DeFi & NFT platforms | `Solidity` `Web3.js` `React` `Node.js` |
+| **Dcycle** | Blockchain Consultant | NFT marketplaces, DeFi integrations | `Solidity` `Hardhat` `Web3.js` `NFT` |
+| **AWS Login Helper** | Solo Developer | Multi-profile AWS CLI tool | `Node.js` `AWS SDK` `1Password` `CLI` |
+| **Uttopion** | Lead Developer | VR platform with multiplayer features | `Unity` `Node.js` `WebRTC` `Socket.io` |
+| **Michelin NA** | Engineering Manager | Remote-first team leadership | `AWS` `Docker` `Terraform` `Leadership` |
+| **Decisiv Vision** | Senior Developer | Fleet management optimization | `Rails` `MySQL` `PubNub` `Backbone.js` |
+| **Globant** | Semi-Senior → Senior | Tribune CMS, e-commerce platforms | `Rails` `PostgreSQL` `Redis` `React` |
+| **Tribune CMS** | Developer | Media publishing system (Millions users) | `Rails` `PostgreSQL` `Redis` `Sidekiq` |
 
 ## 🏆 Recognition
 
 - 🥇 **Globant Ethics Award** (2014)
 - 📈 **Stack Exchange** Top Contributor
 - 🎯 **GitRoll** Verified Profile
+- ⚡ **99% Performance Optimization** (Decisiv)
 
 ## 🌐 Links
 
@@ -54,14 +61,18 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity" />
 </p>
 
 ---
 
 <div align="center">
-  <a href="https://tebayoso.github.io/journal/">📚 Read my career journal</a>
+  <a href="https://tebayoso.github.io/journal/">📚 Read my complete career journal</a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=tebayoso&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&hide=contribs" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebayoso&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff" height="150" />
