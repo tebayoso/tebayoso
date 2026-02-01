@@ -26,6 +26,9 @@ I believe in **ethical engineering**, **continuous learning**, and creating tech
   <a href="https://tebayoso.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio" />
   </a>
+  <a href="https://tebayoso.github.io/blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-B026FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Blog" />
+  </a>
   <a href="https://linkedin.com/in/tebayoso" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -39,6 +42,19 @@ I believe in **ethical engineering**, **continuous learning**, and creating tech
     <img src="https://img.shields.io/badge/Schedule%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Call" />
   </a>
 </p>
+
+---
+
+## 📚 Detailed Case Studies
+
+For in-depth write-ups of my work experience and projects, visit my **[blog](https://tebayoso.github.io/blog/)**:
+
+- 🏢 [Globant - Semi-Senior Developer](https://tebayoso.github.io/blog/2015/04/01/globant-semi-senior-developer/) - Ethics Award 2014
+- ⚡ [Decisiv Vision - 99% Performance Optimization](https://tebayoso.github.io/blog/2015/05/01/decisiv-vision/) - 8000ms → 70ms query optimization
+- 🥈 [Michelin NA - Engineering Manager](https://tebayoso.github.io/blog/2018/09/01/michelin-engineering-manager/) - Remote-first leadership
+- 🚀 [Euler Tools - Startup Founder](https://tebayoso.github.io/blog/2020/10/01/euler-tools-founder/) - Web3 journey
+- 🎮 [Motosierra Studio - Discord Game Builder](https://tebayoso.github.io/blog/2023/01/01/motosierra-studio/) - AI-powered game dev
+- ☁️ [AWS Login Helper](https://tebayoso.github.io/blog/2021/06/01/aws-login-helper/) - DevOps CLI tool
 
 ---
 
